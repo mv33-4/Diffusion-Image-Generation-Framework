@@ -507,37 +507,3 @@ Let's see some sample images using a DDIM scale of 0, classifier-free guidance s
   <img src="https://github.com/gmongaras/Diffusion_models_from_scratch/blob/main/results/comb.png" width="500">
 </p>
 
-Overall, the results look pretty good, though if I trained it for longer and tried to find better hyperparameters, the results could be better!
-
-
-
-
-
-
-# References
-
-1. Diffusion Models Beat GANs on Image Synthesis (with classifier guidance): https://arxiv.org/abs/2105.05233
-
-2. Denoising Diffusion Probabilities Models (DDPMs): https://arxiv.org/abs/2006.11239
-
-3. Improved DDPMs (Improved Denoising Diffusion Probabilistic Models): https://arxiv.org/abs/2102.09672
-
-4. Denoising Diffusion Implicit Models (DDIM): https://arxiv.org/abs/2010.02502
-
-5. Classifier-Free Guidance: https://arxiv.org/abs/2207.12598
-
-6. U-net (Convolutional Networks for Biomedical Image Segmentation): https://arxiv.org/abs/1505.04597
-
-7. ConvNext (A ConvNet for the 2020s): https://arxiv.org/abs/2201.03545
-
-8. Attention block (Attention Is All You Need): https://arxiv.org/abs/1706.03762
-
-9. Attention/Vit block (An Image is Worth 16x16 Words): https://arxiv.org/abs/2010.11929
-
-10. Channel Attention block (ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks): https://arxiv.org/abs/1910.03151
-
-Thanks to the following link for helping me multi-gpu the project!
-https://theaisummer.com/distributed-training-pytorch/
-
-Thanks to Huggingface for the Residual Blocks!
-https://huggingface.co/blog/annotated-diffusion#resnet-block
