@@ -1,5 +1,5 @@
 # Summary
-This repo is composed of DDPM, DDIM, and Classifier-Free guided models trained on ImageNet 64x64. More information can be found below.
+This repo is composed of DDPM, DDIM, and Classifier-Free guided models trained on ImageNet 64x64.
 
 # Contents
 - [Current Additions](#current-additions)
